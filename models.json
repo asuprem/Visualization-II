@@ -1,0 +1,17 @@
+{
+  "cifar": {
+    "classes": 10,
+    "batch": 64,
+    "epochs": 15,
+    "type" : "classification",
+    "labels": ["airplane","automobile","bird","cat","deer","dog","frog","horse","ship","truck"],
+    "size": {
+	"height":32,
+	"width":32
+    },
+    "train":50000,
+    "test":10000,
+    "vis_dim":[250,150],
+    "vis_iters":[150,25]
+  }
+}

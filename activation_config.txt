@@ -1,0 +1,2 @@
+For each model, we store weight 14, 9, 4, and 0
+
